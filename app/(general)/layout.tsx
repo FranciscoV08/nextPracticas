@@ -1,4 +1,4 @@
-import { SidebarNav } from '../components/SidebarNav';
+import { SidebarNav } from '../../src/components/SidebarNav';
 // LRC ( layout Root Components) snipet para generar el rootLayout
 export default function homeLayout({
   children,
